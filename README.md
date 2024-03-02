@@ -16,7 +16,7 @@ Penggajian
 
 Jawaban :
  
-1. Gambar diatas merupakan desain OOP dengan menggunakan diagram UML yang dibuat menggunakan Visual Paradigm.
+Gambar diatas merupakan desain OOP dengan menggunakan diagram UML yang dibuat menggunakan Visual Paradigm.
 Terlihat pada gambar diatas menggambarkan sebuah class diagram dari aplikasi yang ingin dibuat oleh sebuah perusahaan untuk mengelola data karyawan serta melakukan proses penggajian.
 Terdapat beberapa kelas dari diagram diatas yaitu :
 
